@@ -1,3 +1,17 @@
 main {
-
+    transform: rotate(-15deg);
+    width: 120vh;
+    height: 80vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: mediumaquamarine;
 }
+
+main .info {
+    transform: rotate(15deg);
+}
+
+
+  
